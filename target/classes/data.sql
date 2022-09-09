@@ -1,0 +1,1 @@
+INSERT INTO CONTACT(first_name, last_name, full_name, city, postal_code, country, street_name, street_number, email, mobile_phone_number) VALUES ('Tom', 'Gobillard', 'Tom Gobillard', 'Annecy', 74000, 'France', 'Rue Vaugelas', 25, 'tom.goo@hotmail.com', '0655555555');

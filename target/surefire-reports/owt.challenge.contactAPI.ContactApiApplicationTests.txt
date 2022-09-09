@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: owt.challenge.contactAPI.ContactApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.881 s - in owt.challenge.contactAPI.ContactApiApplicationTests
